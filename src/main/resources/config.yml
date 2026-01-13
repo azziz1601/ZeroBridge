@@ -1,0 +1,6 @@
+server:
+  port: 8081
+  api-key: "zeroends-secret-key"
+  debug: false
+websocket:
+  port: 8082

@@ -1,0 +1,6 @@
+name: ZeroBridge
+version: '${version}'
+main: id.zeroends.zerobridge.ZeroBridge
+api-version: 1.21
+author: zeroends
+description: Lightweight API Bridge for Minecraft Server
